@@ -1,3 +1,0 @@
-# First language
-
-![](infographic.png)
