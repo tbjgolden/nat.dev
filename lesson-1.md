@@ -37,7 +37,7 @@ Perhaps this is the final (and most significant?) reason that developers use the
 
 ## Commands to learn
 
-Commands can have hard to remember names. Unfortunately, we just have to learn them. These commands cover a
+Commands can have hard to remember names. Unfortunately, we just have to learn them.
 
 These basics are enough to a surprising amount of things
 
